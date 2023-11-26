@@ -9,6 +9,7 @@
 # 支持我
 爱发电: [爱发电链接](https://afdian.net/a/micah)
 
+# 导航
 <!-- TOC -->
 
 * [AutoOpenCAK](#)
@@ -17,10 +18,6 @@
   * [如何使用](#如何使用)
   * [注意事项](#注意事项)
     <!-- TOC -->
-
-# 运行效果
-
-![image](https://user-images.githubusercontent.com/76832465/236788391-98559835-a629-48e7-923b-ccdccf39f685.png)
 
 # 用途
 
