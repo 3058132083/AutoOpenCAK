@@ -4,7 +4,10 @@
 
 [English README](https://github.com/Micah123321/AutoOpenCAK/blob/main/README-EN.md)
 
-一键脚本工具,用于配置自动化打开各种进程,并且适配不同的用法
+一键脚本工具,用于配置自动化打开各种进程,并且适配不同的用法,比如切换账号.切换服务器等等
+
+# 支持我
+爱发电: [爱发电链接](https://afdian.net/a/micah)
 
 <!-- TOC -->
 
@@ -47,4 +50,4 @@
 
 - 如果您想要更改应用程序的启动项设置，请查看“OpenCorepiAndBypass\OpenCorepiAndBypass\src\Program.cs”文件中的代码并进行必要的更改。
 
-  ![Star History Chart](https://api.star-history.com/svg?repos=Micah123321/AutoOpenCAK&type=Date)![history](https://star-history.com/#Micah123321/AutoOpenCAK&Date)
+  ![Star History Chart](https://api.star-history.com/svg?repos=Micah123321/AutoOpenCAK&type=Date)
