@@ -4,8 +4,7 @@
 
 [English README](https://github.com/Micah123321/AutoOpenCAK/blob/main/README-EN.md)
 
-可以让你绕过类akebi的注入器的原神检测,进程保护,修复启动异常,一键切换中国服,b服,国际服,兼容3dm模型修改工具
-,兼容账号切换工具,兼容过检测方式的原生启动的工具
+一键脚本工具,用于配置自动化打开各种进程,并且适配不同的用法
 
 <!-- TOC -->
 
@@ -22,9 +21,7 @@
 
 # 用途
 
-- 绕过原神检测,屏蔽申报应用
 - 修复启动报错,还原游戏文件
-- 屏蔽进程保护,支持CheatEngine附加到原神
 - 支持一键切换国服,B服 支持国际服 双语支持
 - 一键启动3dm模型切换工具 [下载](https://github.com/Micah123321/AutoOpenCAK/releases/tag/utils)
 - 一键启动账号更换工具 [下载](https://github.com/Micah123321/AutoOpenCAK/releases/tag/utils)
@@ -50,4 +47,4 @@
 
 - 如果您想要更改应用程序的启动项设置，请查看“OpenCorepiAndBypass\OpenCorepiAndBypass\src\Program.cs”文件中的代码并进行必要的更改。
 
-  ![Star History Chart](https://api.star-history.com/svg?repos=Micah123321/AutoOpenCAK&type=Date)](https://star-history.com/#Micah123321/AutoOpenCAK&Date)
+  ![Star History Chart](https://api.star-history.com/svg?repos=Micah123321/AutoOpenCAK&type=Date)![history](https://star-history.com/#Micah123321/AutoOpenCAK&Date)
