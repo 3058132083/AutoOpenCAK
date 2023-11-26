@@ -26,8 +26,6 @@ namespace OpenCorepiAndBypass.src
             processStartInfo.WindowStyle = ProcessWindowStyle.Hidden;
             processStartInfo.UseShellExecute = true;
             Process.Start(processStartInfo);
-
-
         }
 
     }

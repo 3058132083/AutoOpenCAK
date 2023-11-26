@@ -30,7 +30,7 @@ namespace OpenCorepiAndBypass
             Console.ForegroundColor = ConsoleColor.Magenta;
             Console.Write(" : ");
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.Write("原神");
+            Console.Write("原神1");
             Console.ForegroundColor = ConsoleColor.Magenta;
             Console.Write(",");
             Console.ForegroundColor = ConsoleColor.Green;
